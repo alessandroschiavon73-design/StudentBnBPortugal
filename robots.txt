@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studentbnb.pt/sitemap.xml
